@@ -1,0 +1,14 @@
+/*for not allowing overflow in margin (e.g. h1)*/
+.no-overflow{
+	overflow: hidden;
+}
+
+/*same height columns (media for large displays)*/
+@media (min-width: 600px) {
+	.row-eq-height {
+	  display: -webkit-box;
+	  display: -webkit-flex;
+	  display: -ms-flexbox;
+	  display:         flex;
+	}
+}
