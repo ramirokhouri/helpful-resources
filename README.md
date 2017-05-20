@@ -1,2 +1,2 @@
-# helpful-resources1
+# helpful-resources
 some helpful stuff 
